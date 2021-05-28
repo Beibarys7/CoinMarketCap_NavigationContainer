@@ -27,6 +27,7 @@
 		54BE8EDD256D1C0F00B4CB91 /* app.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 54BE8EDB256D1C0E00B4CB91 /* app.jpg */; };
 		54BE8EDE256D1C0F00B4CB91 /* appcity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 54BE8EDC256D1C0E00B4CB91 /* appcity.jpg */; };
 		54BE8EE0256D2B8500B4CB91 /* ConverterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BE8EDF256D2B8500B4CB91 /* ConverterViewController.swift */; };
+		54D0C1F5266145AC00B41074 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 54D0C1F4266145AC00B41074 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		54BE8EDB256D1C0E00B4CB91 /* app.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = app.jpg; path = ../../../../app.jpg; sourceTree = "<group>"; };
 		54BE8EDC256D1C0E00B4CB91 /* appcity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = appcity.jpg; path = ../../../../appcity.jpg; sourceTree = "<group>"; };
 		54BE8EDF256D2B8500B4CB91 /* ConverterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterViewController.swift; sourceTree = "<group>"; };
+		54D0C1F4266145AC00B41074 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		5466426725603D540001AAEB /* NavigationConteiner */ = {
 			isa = PBXGroup;
 			children = (
+				54D0C1F4266145AC00B41074 /* .gitignore */,
 				5466427F25603DBD0001AAEB /* Provider */,
 				5466427E25603DA30001AAEB /* Controller */,
 				5466427D25603D9D0001AAEB /* View */,
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54D0C1F5266145AC00B41074 /* .gitignore in Resources */,
 				5466428F2562E5DD0001AAEB /* xrp.png in Resources */,
 				5466427525603D560001AAEB /* LaunchScreen.storyboard in Resources */,
 				5466428E2562E5DD0001AAEB /* eth.png in Resources */,
